@@ -1,0 +1,23 @@
+{
+  "name": "dwz.js",
+  "filename": "dwz.min.js",
+  "version": "0.1.0",
+  "description": "Simple and practical UI framework.",
+  "homepage": "http://www.j-ui.com/",
+  "keywords": [
+    "dwz.js","dwz",'j-ui'
+  ],
+  "maintainers": [
+    {
+      "name": "DWZ",
+      "web": "http://www.j-ui.com/",
+      "mail": "support@j-ui.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/dwz/dwz.js"
+    }
+  ]
+}
